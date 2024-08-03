@@ -19,21 +19,21 @@
       "cardText": "Durante o tratamento, podemos precisar de um reforço de algumas células do...",
       "bgColor": "#f2adba",
       "cardExpandedText": "Durante o tratamento, podemos precisar de um reforço de algumas células do sangue. Ainda bem que inventaram uma máquina para separar cada célula no seu quadrado. Assim você recebe só o que precisa e a gente aprende que o nome disso é aférese.",
-      "theme": "Febre",
+      "theme": "Aférese",
       "bgColorTheme:": "rgb(102,102,102)",
-      "recommendation": "Amor",
+      "recommendation": "Plaquetas",
       "bgColorRecommendatio": "rgb(102,102,102)"
     },
     {
       "id": "3",
       "cardImg": "/Images/alcool-gel.png",
-      "cardTitle": "Alcool em Gel",
-      "cardText": "Aprenda sobre hospedagem projetada para escalabilidade e confiabilidade.",
+      "cardTitle": "Álcool em Gel",
+      "cardText": "Se não tem água, nem sabão, ele limpa a nossa barra. Ou melhor: as nossas mãos...",
       "bgColor": "#38bfc4",
-      "cardExpandedText": "Aprenda sobre hospedagem projetada para escalabilidade e confiabilidade. Aprenda sobre hospedagem projetada para escalabilidade e confiabilidade. Aprenda sobre hospedagem projetada para escalabilidade e confiabilidade.",
-      "theme": "Tempo de Tela",
+      "cardExpandedText": "Se não tem água, nem sabão, ele limpa a nossa barra. Ou melhor: as nossas mãos. Álcool gel é aquele negócio geladinho que ajuda a livrar a gente de vírus e bactérias. Espalhe bem pela mão, dentro e fora, e por todos os dedos. Toca aqui se você está com a mão limpinha! Opa, agora tem que limpar de novo - e pedir para todo mundo usar também!",
+      "theme": "Álcool em Gel",
       "bgColorTheme:": "rgb(102,102,102)",
-      "recommendation": "Amor",
+      "recommendation": "Infecção",
       "bgColorRecommendatio": "rgb(102,102,102)"
     },
     {
