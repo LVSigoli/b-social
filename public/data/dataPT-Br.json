@@ -120,6 +120,66 @@
       "recommendation": "Cirurgia",
       "bgColorRecommendatio": "rgb(102,102,102)"
     },
+    {
+      "id": "11",
+      "cardImg": "/Images/ansiedade.png",
+      "cardTitle": "Ansiedade",
+      "cardText": "Sabe aquele nervoso que dá antes de fazer um exame? Ou aquela agitação que...",
+      "bgColor": "#38bfc4",
+      "cardExpandedText": "Sabe aquele nervoso que dá antes de fazer um exame? Ou aquela agitação que dá quando o médico está para dar sua alta do hospital? Ansiedade é isso: uma mistura de preocupação com a vontade de que chegue logo, e pode vir por coisas que trazem alegria ou medo. Se a ansiedade estiver apertando, converse com o psicólogo. Logo seu coração fica levinho de novo.",
+      "theme": "Ansiedade",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Capelão",
+      "bgColorRecommendatio": "rgb(102,102,102)"
+    },
+    {
+      "id": "12",
+      "cardImg": "/Images/antibiotico.png",
+      "cardTitle": "Antibiótico",
+      "cardText": "Quando os microorganismos que causam infecção entram em nosso corpo, precisamos...",
+      "bgColor": "#f2adba",
+      "cardExpandedText": "Quando os microorganismos que causam infecção entram em nosso corpo, precisamos de um remédio para combatê-los. Esta é a missão do antibiótico, destruir os vírus e as bactérias e nos deixar sãos e salvos.",
+      "theme": "Antibiótico",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Medicamento",
+      "bgColorRecommendatio": "rgb(102,102,102)"
+    },
+    {
+      "id": "13",
+      "cardImg": "/Images/anticorpos.png",
+      "cardTitle": "Anticorpos",
+      "cardText": "Anticorpos são proteínas de defesa do nosso organismo. Quando estamos sendo...",
+      "bgColor": "#f6c315",
+      "cardExpandedText": "Anticorpos são proteínas de defesa do nosso organismo. Quando estamos sendo ameaçados por alguma bactéria ou vírus, nossos anticorpos entram em ação, destruindo ou diminuindo sua atividade.",
+      "theme": "Anticorpos",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Leucócito",
+      "bgColorRecommendatio": "rgb(102,102,102)"
+    },
+    {
+      "id": "14",
+      "cardImg": "/Images/assistente-social.png",
+      "cardTitle": "Assistente social",
+      "cardText": "São tantas as funções do assistente social, que essa página ficou foi muito...",
+      "bgColor": "#38bfc4",
+      "cardExpandedText": "São tantas as funções do assistente social, que essa página ficou foi muito pequena para ele: defende nossos direitos, soluciona nossos problemas, nos orienta, informa e encaminha. Sua missão é garantir nosso bem-estar e reintegração, tanto no hospital quanto na sociedade.",
+      "theme": "Assistente social",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Luto",
+      "bgColorRecommendatio": "rgb(102,102,102)"
+    },
+    {
+      "id": "15",
+      "cardImg": "/Images/bacteremia.png",
+      "cardTitle": "Bacteremia",
+      "cardText": "Bacteremia é a presença de bactérias no sangue. Durante a quimioterapia,...",
+      "bgColor": "#EA4247",
+      "cardExpandedText": "Bacteremia é a presença de bactérias no sangue. Durante a quimioterapia, podemos ficar com uma quantidade baixa de leucócitos, que são as células de defesa do corpo. Isso facilita o desenvolvimento de bacteremia. Mas não se preocupe, dá para se recuperar deste baque.",
+      "theme": "Bacteremia",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Hemocultura",
+      "bgColorRecommendatio": "rgb(102,102,102)"
+    },
 
   ],
 
