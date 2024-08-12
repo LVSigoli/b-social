@@ -216,6 +216,30 @@
       "recommendation": "Diagnóstico precoce",
       "bgColorRecommendation": "rgb(102,102,102)"
     },
+    {
+      "id": "19",
+      "cardImg": "/Images/bobagem.png",
+      "cardTitle": "Bobagem",
+      "cardText": "Bobagem é o que muita gente vai falar sobre câncer para você e...",
+      "bgColor": "#EA4247",
+      "cardExpandedText": "Bobagem é o que muita gente vai falar sobre câncer para você e para sua família. Não é por mal, mas às vezes tanta falta de informação pode acabar atrapalhando. Ainda bem que você tem um time de profissionais especialmente preparados para cuidar do seu tratamento. Se tiver qualquer dúvida, pergunte a eles!",
+      "theme": "Bobagem",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Cura",
+      "bgColorRecommendation": "rgb(102,102,102)"
+    },
+    {
+      "id": "20",
+      "cardImg": "/Images/bomba-infusao.png",
+      "cardTitle": "Bomba de infusão",
+      "cardText": "Bomba de infusão é o equipamento utilizado para controlar os...",
+      "bgColor": "#F2ADBA",
+      "cardExpandedText": "Bomba de infusão é o equipamento utilizado para controlar os medicamentos que o paciente está recebendo, tanto pelas veias quanto pela sonda. Se não fosse a bomba de infusão, os enfermeiros teriam que ficar pendurados no suporte controlando volume e velocidade dos medicamentos.",
+      "theme": "Bomba de infusão",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Técnico de enfermagem",
+      "bgColorRecommendation": "rgb(102,102,102)"
+    },
 
   ],
 
