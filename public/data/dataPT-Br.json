@@ -168,6 +168,18 @@
       "recommendation": "Luto",
       "bgColorRecommendatio": "rgb(102,102,102)"
     },
+    {
+      "id": "15",
+      "cardImg": "/Images/bacteremia.png",
+      "cardTitle": "Bacteremia",
+      "cardText": "Bacteremia é a presença de bactérias no sangue. Durante a quimioterapia,...",
+      "bgColor": "#EA4247",
+      "cardExpandedText": "Bacteremia é a presença de bactérias no sangue. Durante a quimioterapia, podemos ficar com uma quantidade baixa de leucócitos, que são as células de defesa do corpo. Isso facilita o desenvolvimento de bacteremia. Mas não se preocupe, dá para se recuperar deste baque.",
+      "theme": "Bacteremia",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Hemocultura",
+      "bgColorRecommendatio": "rgb(102,102,102)"
+    },
   ],
 
 "links": {
