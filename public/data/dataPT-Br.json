@@ -107,7 +107,7 @@
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Transfusão de sangue",
       "bgColorRecommendatio": "rgb(102,102,102)"
-    }
+    },
     {
       "id": "10",
       "cardImg": "/Images/anestesia.png",
@@ -119,7 +119,7 @@
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Cirurgia",
       "bgColorRecommendatio": "rgb(102,102,102)"
-    }
+    },
     {
       "id": "11",
       "cardImg": "/Images/ansiedade.png",
@@ -131,7 +131,7 @@
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Capelão",
       "bgColorRecommendatio": "rgb(102,102,102)"
-    }
+    },
     {
       "id": "12",
       "cardImg": "/Images/antibiotico.png",
@@ -143,7 +143,7 @@
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Medicamento",
       "bgColorRecommendatio": "rgb(102,102,102)"
-    }
+    },
     {
       "id": "13",
       "cardImg": "/Images/anticorpos.png",
@@ -155,7 +155,7 @@
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Leucócito",
       "bgColorRecommendatio": "rgb(102,102,102)"
-    }
+    },
     {
       "id": "14",
       "cardImg": "/Images/assistente-social.png",
@@ -167,7 +167,7 @@
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Luto",
       "bgColorRecommendatio": "rgb(102,102,102)"
-    }
+    },
   ],
 
 "links": {
