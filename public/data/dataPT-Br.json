@@ -180,6 +180,42 @@
       "recommendation": "Hemocultura",
       "bgColorRecommendation": "rgb(102,102,102)"
     },
+   {
+      "id": "16",
+      "cardImg": "/Images/balanca.png",
+      "cardTitle": "Balança",
+      "cardText": "Balança é como se chama o instrumento que mede o peso* das coisas. Você pode...",
+      "bgColor": "#F2ADBA",
+      "cardExpandedText": "Balança é como se chama o instrumento que mede o peso* das coisas. Você pode ter visto uma na cozinha (para pesar ingredientes), na farmácia do hospital (para pesar medicamentos) ou no consultório (para pesar os pacientes). *Quando você estudar física o professor vai ensinar que o certo é dizer 'massa' ao invés de 'peso', mas vamos assim mesmo por enquanto.",
+      "theme": "Balança",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Quilos",
+      "bgColorRecommendation": "rgb(102,102,102)"
+    },
+    {
+      "id": "17",
+      "cardImg": "/Images/biomedico.png",
+      "cardTitle": "Biomédico",
+      "cardText": "Ele pode conhecer você melhor do que ninguém sem nunca ter visto o seu rosto...",
+      "bgColor": "#38BFC4",
+      "cardExpandedText": "Ele pode conhecer você melhor do que ninguém sem nunca ter visto o seu rosto! Sabe como? O biomédico é um dos profissionais que analisa nossas amostras lá no laboratório, por trás das lentes do microscópio e na tela do computador. Na próxima vez que colher algum exame, lembre de mandar uma amostra de carinho para os biomédicos!",
+      "theme": "Biomédico",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Diagnóstico",
+      "bgColorRecommendation": "rgb(102,102,102)"
+    },
+    {
+      "id": "18",
+      "cardImg": "/Images/biopsia.png",
+      "cardTitle": "Biópsia",
+      "cardText": "Biópsia é o procedimento de retirada de uma pequena amostra de tecido...",
+      "bgColor": "#F6C315",
+      "cardExpandedText": "Biópsia é o procedimento de retirada de uma pequena amostra de tecido ou células do tumor que é levada para estudo em laboratório. Assim os médicos não precisam retirar um órgão inteiro para saber o que ele tem.",
+      "theme": "Biópsia",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Diagnóstico precoce",
+      "bgColorRecommendation": "rgb(102,102,102)"
+    },
 
   ],
 
