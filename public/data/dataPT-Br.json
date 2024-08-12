@@ -10,7 +10,7 @@
       "theme": "Acesso",
       "bgColorTheme:": "#F6C315",
       "recommendation": "Cateter",
-      "bgColorRecommendatio": "rgb(238,197,70)"
+      "bgColorRecommendation": "rgb(238,197,70)"
     },
     {
       "id": "2",
@@ -22,7 +22,7 @@
       "theme": "Aférese",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Plaquetas",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "theme": "Álcool em Gel",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Infecção",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "4",
@@ -46,7 +46,7 @@
       "theme": "Alergia",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Neutropenia",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "5",
@@ -58,7 +58,7 @@
       "theme": "Alimentação",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Balança",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "6",
@@ -70,7 +70,7 @@
       "theme": "Ambulatório",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Emergência",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "7",
@@ -82,7 +82,7 @@
       "theme": "Amputação",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Prótese",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "8",
@@ -94,7 +94,7 @@
       "theme": "Anamnese",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Ambulatório",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "9",
@@ -106,7 +106,7 @@
       "theme": "Anemia",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Transfusão de sangue",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "10",
@@ -118,7 +118,7 @@
       "theme": "Anestesia",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Cirurgia",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "11",
@@ -130,7 +130,7 @@
       "theme": "Ansiedade",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Capelão",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "12",
@@ -142,7 +142,7 @@
       "theme": "Antibiótico",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Medicamento",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "13",
@@ -154,7 +154,7 @@
       "theme": "Anticorpos",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Leucócito",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "14",
@@ -166,7 +166,7 @@
       "theme": "Assistente social",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Luto",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
     {
       "id": "15",
@@ -178,7 +178,7 @@
       "theme": "Bacteremia",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Hemocultura",
-      "bgColorRecommendatio": "rgb(102,102,102)"
+      "bgColorRecommendation": "rgb(102,102,102)"
     },
 
   ],
