@@ -180,7 +180,7 @@
       "recommendation": "Hemocultura",
       "bgColorRecommendation": "rgb(102,102,102)"
     },
-   {
+    {
       "id": "16",
       "cardImg": "/Images/balanca.png",
       "cardTitle": "Balança",
@@ -239,47 +239,45 @@
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Técnico de enfermagem",
       "bgColorRecommendation": "rgb(102,102,102)"
-    },
-
+    }
   ],
 
-"links": {
-  "logo": "https://beaba.org",
-  "guia": "https://beaba.org/guia/",
-  "aboutUs": "https://beaba.org/quem-somos/",
-  "contact": " hello@beaba.org",
-  "help": "https://beaba.org/doacao/",
-  "btn": " https://beaba.org/doacao/",
-  "instagram": "https://www.instagram.com/beabaorg/",
-  "mail": "hello@beaba.org"
-},
-
-"texts": {
-  
-  "navigation": {
-    "guide": "Guia",
-    "contact": "Contato",
-    "help": "Como Ajudar",
-    "aboutUs": "Quem Somos"
+  "links": {
+    "logo": "https://beaba.org",
+    "guia": "https://beaba.org/guia/",
+    "aboutUs": "https://beaba.org/quem-somos/",
+    "contact": " hello@beaba.org",
+    "help": "https://beaba.org/doacao/",
+    "btn": " https://beaba.org/doacao/",
+    "instagram": "https://www.instagram.com/beabaorg/",
+    "mail": "hello@beaba.org"
   },
 
-  "header": { 
-    "h1": "Beaba do Cancer",
-    "complete": "Tudo o que você precisa saber sobre câncer. Para pequenos pacientes e seus acompanhantes",
-    "part1": "Tudo o que você precisa saber sobre câncer",
-    "part2": "Para pequenos pacientes e seus acompanhantes"
-  },
+  "texts": {
+    "navigation": {
+      "guide": "Guia",
+      "contact": "Contato",
+      "help": "Como Ajudar",
+      "aboutUs": "Quem Somos"
+    },
 
-  "helpArea": { 
-    "title": "Quero Ajudar!",
-    "button": "Comece aqui"
-  },
+    "header": {
+      "h1": "Beaba do Cancer",
+      "complete": "Tudo o que você precisa saber sobre câncer. Para pequenos pacientes e seus acompanhantes",
+      "part1": "Tudo o que você precisa saber sobre câncer",
+      "part2": "Para pequenos pacientes e seus acompanhantes"
+    },
 
-  "footer":{ 
-    "developed": "Desenvolvido com ♥ por" , 
-    "pet":" PET/ADS",
-    "mobileIFSP": "/IFSP", 
-    "ifsp":" IFSP São Carlos."
+    "helpArea": {
+      "title": "Quero Ajudar!",
+      "button": "Comece aqui"
+    },
+
+    "footer": {
+      "developed": "Desenvolvido com ♥ por",
+      "pet": " PET/ADS",
+      "mobileIFSP": "/IFSP",
+      "ifsp": " IFSP São Carlos."
+    }
   }
-}
 }
