@@ -230,7 +230,7 @@
     },
     {
       "id": "20",
-      "cardImg": "/Images/bomba-infusao.png",
+      "cardImg": "/Images/bomba.png",
       "cardTitle": "Bomba de infusão",
       "cardText": "Bomba de infusão é o equipamento utilizado para controlar os...",
       "bgColor": "#F2ADBA",
@@ -238,6 +238,30 @@
       "theme": "Bomba de infusão",
       "bgColorTheme:": "rgb(102,102,102)",
       "recommendation": "Técnico de enfermagem",
+      "bgColorRecommendation": "rgb(102,102,102)"
+    },
+    {
+      "id": "21",
+      "cardImg": "/Images/cabelo.png",
+      "cardTitle": "Cabelo",
+      "cardText": "Cabelo é o conjunto de fios produzidos por células que se multiplicam...",
+      "bgColor": "#F6C315",
+      "cardExpandedText": "Cabelo é o conjunto de fios produzidos por células que se multiplicam rapidamente. Sabe quem mais se reproduz assim? As células malignas. A quimioterapia destrói estas células que se duplicam rapidamente e acaba atingindo as células boas também. Por isso que o cabelo cai, mas é só terminar o tratamento que ele cresce outra vez.",
+      "theme": "Cabelo",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Careca",
+      "bgColorRecommendation": "rgb(102,102,102)"
+    },
+    {
+      "id": "22",
+      "cardImg": "/Images/cancer.png",
+      "cardTitle": "Câncer",
+      "cardText": "Câncer é o nome dado ao crescimento rápido e desordenado de células...",
+      "bgColor": "#38BFC4",
+      "cardExpandedText": "Câncer é o nome dado ao crescimento rápido e desordenado de células que entram sem pedir licença nos tecidos e órgãos. Ainda não se sabe porque as células ficam malucas e começam a se duplicar. Mas os cientistas não param de investigar.",
+      "theme": "Câncer",
+      "bgColorTheme:": "rgb(102,102,102)",
+      "recommendation": "Oncologia",
       "bgColorRecommendation": "rgb(102,102,102)"
     }
   ],
